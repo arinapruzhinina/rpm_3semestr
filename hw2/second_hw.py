@@ -38,5 +38,5 @@ if __name__ == '__main__':
     
     scraped_data = zaka_zaka_games(zaka_zaka_url, num_pages_to_scrape)
 
-    with open("zaka_zaka.json", "w") as json_file:
+    with open("hw2/zaka_zaka.json", "w") as json_file:
         json.dump(scraped_data, json_file, indent=4)

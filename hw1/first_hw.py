@@ -10,7 +10,7 @@ def yandex_chart(url):
     track = page.findAll('div', attrs = {'class' : 'd-track__name'})
     result = {i + 1 : {singer[i].text : ' '.join(track[i].text.split())} for i in range(len(track))}
 
-    with open ('chart.json', 'w', encoding = 'utf-8') as f:
+    with open ('hw1/chart.json', 'w', encoding = 'utf-8') as f:
         json.dump(result, f, ensure_ascii=False)
 
 yandex_chart('https://music.yandex.ru/chart')

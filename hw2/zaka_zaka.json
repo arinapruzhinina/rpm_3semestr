@@ -7,9 +7,17 @@
         "price": 1399.0,
         "url": "https://zaka-zaka.com/game/robocop-rogue-city"
     },
+    "The Lamplighters League": {
+        "price": 1449.0,
+        "url": "https://zaka-zaka.com/game/the-lamplighters-league"
+    },
     "Spirit of the Island \u2013 Adventureland": {
         "price": 89.0,
         "url": "https://zaka-zaka.com/game/spirit-of-the-island-adventureland"
+    },
+    "The Lamplighters League Deluxe Edition": {
+        "price": 2679.0,
+        "url": "https://zaka-zaka.com/game/the-lamplighters-league-deluxe-edition"
     },
     "COCOON": {
         "price": 889.0,
@@ -419,10 +427,6 @@
         "price": 219.0,
         "url": "https://zaka-zaka.com/game/farm-frenzy-refreshed"
     },
-    "Fishing: North Atlantic": {
-        "price": 345.0,
-        "url": "https://zaka-zaka.com/game/fishing-north-atlantic"
-    },
     "Cybernetic Fault": {
         "price": 139.0,
         "url": "https://zaka-zaka.com/game/cybernetic-fault"
@@ -438,10 +442,6 @@
     "Spirit of the North": {
         "price": 399.0,
         "url": "https://zaka-zaka.com/game/spirit-of-the-north"
-    },
-    "Euphoria: Supreme Mechanics": {
-        "price": 99.0,
-        "url": "https://zaka-zaka.com/game/euphoria-supreme-mechanics"
     },
     "Pesterquest": {
         "price": 199.0,
